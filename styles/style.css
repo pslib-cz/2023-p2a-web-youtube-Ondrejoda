@@ -27,7 +27,6 @@
     display: flex;
     gap: 1rem;
     align-items: flex-start;
-    flex-grow: 1;
     flex-wrap: wrap;
 }
 .ytv__right {
